@@ -92,6 +92,12 @@
         "number"
       ]
     },
+    "account_currency": {
+      "type": [
+        "null",
+        "string"
+      ]
+    },
     "account_name": {
       "type": [
         "null",
